@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
