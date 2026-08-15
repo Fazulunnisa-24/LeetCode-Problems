@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
