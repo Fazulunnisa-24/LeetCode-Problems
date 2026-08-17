@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
 ## Manacher
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
