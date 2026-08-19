@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
