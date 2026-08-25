@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Sliding Window
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -138,4 +142,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
