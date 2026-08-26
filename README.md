@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1872-stone-game-viii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1872-stone-game-viii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 ## Divide and Conquer
 |  |
