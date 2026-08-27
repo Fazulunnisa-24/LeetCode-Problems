@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0054-spiral-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0283-move-zeroes) |
 ## String
 |  |
