@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
