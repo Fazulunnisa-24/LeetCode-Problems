@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
