@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1927-sum-game) |
