@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1927-sum-game](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
