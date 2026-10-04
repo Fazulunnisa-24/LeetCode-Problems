@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Fazulunnisa-24/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
